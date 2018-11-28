@@ -5,11 +5,11 @@ package:
 source:
   patches:
     - texture-atlas.patch
-  git_tag: v1.0.2
+  git_tag: v1.0.3
   git_url: git@gitlab.kitware.com:core3d/core3d-keu.git
 
 build:
-  number: 1
+  number: 0
 
 requirements:
   build:
